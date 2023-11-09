@@ -161,6 +161,15 @@ for ( i = 0; i < slices.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/ndarray-array`][@stdlib/ndarray/array]</span><span class="delimiter">: </span><span class="description">multidimensional arrays.</span>
+-   <span class="package-name">[`@stdlib/ndarray-ctor`][@stdlib/ndarray/ctor]</span><span class="delimiter">: </span><span class="description">multidimensional array constructor.</span>
+-   <span class="package-name">[`@stdlib/ndarray-numel`][@stdlib/ndarray/numel]</span><span class="delimiter">: </span><span class="description">return the number of elements in an ndarray.</span>
+-   <span class="package-name">[`@stdlib/ndarray-shape`][@stdlib/ndarray/shape]</span><span class="delimiter">: </span><span class="description">return the shape of a provided ndarray.</span>
+
 </section>
 
 <!-- /.related -->
@@ -234,7 +243,17 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-ndims/main/LICENSE
 
-[@stdlib/ndarray/ctor]: https://github.com/stdlib-js/stdlib
+[@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
+
+<!-- <related-links> -->
+
+[@stdlib/ndarray/array]: https://github.com/stdlib-js/ndarray-array
+
+[@stdlib/ndarray/numel]: https://github.com/stdlib-js/ndarray-numel
+
+[@stdlib/ndarray/shape]: https://github.com/stdlib-js/ndarray-shape
+
+<!-- </related-links> -->
 
 </section>
 
